@@ -1,7 +1,7 @@
 {
 "domain": "alertswiss",
 "name": "AlertSwiss",
-"version": "1.0.4",
+"version": "1.0.5",
 "config_flow": true,
 "dependencies": [],
 "codeowners": ["@mc-gl89"],
