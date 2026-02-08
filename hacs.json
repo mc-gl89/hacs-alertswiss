@@ -3,9 +3,6 @@
     "content_in_root": false,
     "domain": "alertswiss",
     "homeassistant": "2022.7.0",
-    "hacs": {
-    "type": "integration"
-    },
-    "render_readme": true,
-    "zip_release": false
+    "hacs": { "type": "integration" },
+    "render_readme": true
 }
