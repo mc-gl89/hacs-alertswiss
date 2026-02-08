@@ -1,10 +1,9 @@
 {
 "domain": "alertswiss",
 "name": "AlertSwiss",
-"version": "1.0.0",
-"requirements": ["aiohttp"],
+"version": "1.0.3",
 "config_flow": true,
 "dependencies": [],
-"codeowners": ["@dein_github_username"],
+"codeowners": ["@mc-gl89"],
 "iot_class": "cloud_polling"
 }

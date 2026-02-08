@@ -4,5 +4,6 @@
     "domain": "alertswiss",
     "homeassistant": "2022.7.0",
     "hacs": { "type": "integration" },
-    "render_readme": true
+    "render_readme": true,
+    "image": "icon.png"
 }
